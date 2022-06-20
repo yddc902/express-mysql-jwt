@@ -19,7 +19,7 @@ exports.responseHandler = {
   },
   error: ({ res, code, message, error }) => {
     res.status(code ?? 500).send({
-      status: "success",
+      status: "error",
       message,
       error,
     });
