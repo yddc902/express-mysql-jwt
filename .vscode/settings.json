@@ -1,0 +1,14 @@
+{
+  "workbench.colorTheme": "One Dark Pro",
+  "editor.fontFamily": "'Ubuntu Mono',Consolas, 'Courier New', monospace",
+  "terminal.integrated.fontFamily": "'Ubuntu Mono',Consolas, 'Courier New', monospace",
+  "terminal.integrated.fontSize": 17,
+  // "terminal.integrated.letterSpacing": .8,
+  "terminal.integrated.lineHeight": 1.5,
+  "editor.minimap.renderCharacters": false,
+  "editor.renderControlCharacters": false,
+  "editor.renderWhitespace": "none",
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.indentation": false,
+  "workbench.tree.renderIndentGuides": "onHover",
+}
